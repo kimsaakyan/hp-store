@@ -31,6 +31,9 @@ const SingleProduct = (props) => {
 			case 'setWishList': {
 				dispatch(setWishList(newOrder));
 			}
+			default: {
+				break
+			}
 		}
 
 	}

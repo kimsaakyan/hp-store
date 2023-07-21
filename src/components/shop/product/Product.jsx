@@ -1,4 +1,4 @@
-import { useSelector, useDispatch } from "react-redux";
+import { useDispatch } from "react-redux";
 import { setOrders } from "../../../redux/slices/cartSlice";
 import { setWishList } from "../../../redux/slices/wishListSlice";
 import { Link } from "react-router-dom";

@@ -1,4 +1,3 @@
-import { AiOutlineInstagram } from 'react-icons/ai';
 import { FaTelegram as TelegramIcon, FaFacebook as FacebookIcon, FaInstagram as InstagramIcon } from 'react-icons/fa';
 import { Link } from 'react-router-dom'
 

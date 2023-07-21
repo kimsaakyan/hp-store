@@ -59,7 +59,7 @@ const Home = () => {
 			</div>
 
 			<div className=''>
-				<img src={topImg} className='' />
+				<img src={topImg} alt="" className='' />
 			</div>
 
 			<div className="flex flex-col items-center mt-[30px] lg:p-8">
@@ -73,7 +73,7 @@ const Home = () => {
 						transition={{ duration: 0.5 }}
 						className='md:w-boxWidth m-8 space-y-2 rounded-lg shadow-lg'
 					>
-						<img src={asianGirl} className='rounded-t-lg' />
+						<img src={asianGirl} alt="" className='rounded-t-lg' />
 						<div className='px-4 pb-4 text-secondMainColor'>
 							<h3 className='font-semibold'>Superior Sound Quality</h3>
 							<p>Our headphones offer exceptional audio reproduction. You'll enjoy crisp, high-quality sound with deep bass that immerses you in the unique sonic world of your favorite music.</p>
@@ -87,7 +87,7 @@ const Home = () => {
 						transition={{ duration: 0.5 }}
 						className='md:w-boxWidth m-8 space-y-2 rounded-lg shadow-lg'
 					>
-						<img src={man} className='rounded-t-lg' />
+						<img src={man} alt="" className='rounded-t-lg' />
 						<div className='px-4 pb-4 text-secondMainColor'>
 							<h3 className='font-semibold'>Comfort and Convenience</h3>
 							<p>We care about your comfort. Our headphones provide the perfect blend of style and comfort with plush ear cushions and an adjustable headband. You can enjoy music for extended periods without discomfort.</p>
@@ -100,7 +100,7 @@ const Home = () => {
 						animate={isInViewBlock3 ? 'to' : 'from'}
 						transition={{ duration: 0.5 }}
 						className='md:w-boxWidth m-8 space-y-2 rounded-lg shadow-lg' >
-						<img src={africanGirl} className='rounded-t-lg' />
+						<img src={africanGirl} alt="" className='rounded-t-lg' />
 						<div className='px-4 pb-4 text-secondMainColor'>
 							<h3 className='font-semibold'>Durability and Longevity</h3>
 							<p>We use only high-quality materials and reliable components to ensure the longevity of our headphones. You can trust that they will serve you for a long time and be reliable companions on your musical journey.</p>
@@ -113,7 +113,7 @@ const Home = () => {
 						animate={isInViewBlock4 ? 'to' : 'from'}
 						transition={{ duration: 0.5 }}
 						className='md:w-boxWidth m-8 space-y-2 rounded-lg shadow-lg'>
-						<img src={dreamyGirl} className='rounded-t-lg' />
+						<img src={dreamyGirl} alt="" className='rounded-t-lg' />
 						<div className='px-4 pb-4 text-secondMainColor'>
 							<h3 className='font-semibold'>Features and Controls</h3>
 							<p className=''>Refers to additional features and controls offered by the headphones, such as in-line microphone, playback controls, voice assistant integration, and customizable settings.</p>

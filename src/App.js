@@ -1,9 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
-import MainMenu from './components/menu/MainMenu';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import MainLayout from './layouts/MainLayout';
-import Contact from './components/contact/Contact';
 import ShopPage from './pages/ShopPage';
 import HomePage from './pages/HomePage';
 import CartPage from './pages/CartPage';
@@ -18,7 +15,7 @@ import ScrollToTop from './tools/ScrollToTop'
 function App() {
 	return (
 		<div className="font-['Poppins']">
-			<BrowserRouter>
+			<BrowserRouter basename={window.location.pathname || ''}>
 				<ScrollToTop />
 				<Routes>
 					<Route path='/' element={<MainLayout />}>

@@ -1,5 +1,5 @@
 import { useDispatch } from "react-redux";
-import { setWishList, removeWishItem } from "../../../redux/slices/wishListSlice";
+import { removeWishItem } from "../../../redux/slices/wishListSlice";
 import { setOrders } from "../../../redux/slices/cartSlice";
 import { Link } from "react-router-dom";
 import { useState } from "react";

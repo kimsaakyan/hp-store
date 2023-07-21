@@ -27,6 +27,9 @@ const MiniCart = () => {
 				dispatch(removeOrder(id))
 				break;
 			}
+			default: {
+				break;
+			}
 		}
 	}
 

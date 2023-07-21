@@ -34,6 +34,9 @@ const MainCart = () => {
 				dispatch(decrementOrder(id))
 				break
 			}
+			default: {
+				break;
+			}
 		}
 	}
 

@@ -100,6 +100,8 @@ const headphonesSlice = createSlice({
 				if (priceFilter && sizeFilter) {
 					return headphone
 				}
+
+				return
 			})
 
 			state.filteredHeadphones = filteredProducts;
