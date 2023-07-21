@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/hp-store/static/css/main.aeaf2234.css",
-    "main.js": "/hp-store/static/js/main.81993120.js",
+    "main.css": "/hp-store/static/css/main.550df803.css",
+    "main.js": "/hp-store/static/js/main.43fd0f0b.js",
     "static/js/787.06663485.chunk.js": "/hp-store/static/js/787.06663485.chunk.js",
     "static/media/bottom-background.png": "/hp-store/static/media/bottom-background.fd430d2c5e840f47500f.png",
-    "static/media/img-for-myFavouritePage.png": "/hp-store/static/media/img-for-myFavouritePage.9888c192c229d8f518f2.png",
     "static/media/headphone-banner.jpg": "/hp-store/static/media/headphone-banner.60cee02fddaa76306671.jpg",
     "static/media/portrait-asian-girl.jpg": "/hp-store/static/media/portrait-asian-girl.34f83f8504ce839d2811.jpg",
     "static/media/dreamy-girl.jpg": "/hp-store/static/media/dreamy-girl.77c171f806c7b1db132b.jpg",
@@ -20,12 +19,12 @@
     "static/media/headphoneLogo.png": "/hp-store/static/media/headphoneLogo.31c193b110a22e808a94.png",
     "static/media/logo.svg": "/hp-store/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hp-store/index.html",
-    "main.aeaf2234.css.map": "/hp-store/static/css/main.aeaf2234.css.map",
-    "main.81993120.js.map": "/hp-store/static/js/main.81993120.js.map",
+    "main.550df803.css.map": "/hp-store/static/css/main.550df803.css.map",
+    "main.43fd0f0b.js.map": "/hp-store/static/js/main.43fd0f0b.js.map",
     "787.06663485.chunk.js.map": "/hp-store/static/js/787.06663485.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aeaf2234.css",
-    "static/js/main.81993120.js"
+    "static/css/main.550df803.css",
+    "static/js/main.43fd0f0b.js"
   ]
 }
