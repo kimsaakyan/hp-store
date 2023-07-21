@@ -1,7 +1,3 @@
-import { motion, AnimatePresence } from "framer-motion";
-import { useState } from "react";
-import Test from "./Test";
-
 const PaymentMethods = () => {
 
 

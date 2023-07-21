@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef } from 'react';
+import { useState, useRef } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { filterGoods } from '../../redux/slices/headphonesSlice';
 import { motion } from 'framer-motion';
@@ -15,7 +15,6 @@ const Filter = (props) => {
 
 	const [brand, setBrand] = useState('');
 
-	const formRef = useRef(null);
 
 	const handlePriceChange = (newValue, pointer) => {
 		switch (pointer) {

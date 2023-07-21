@@ -1,17 +1,10 @@
-import mainImg from '../../images/img-for-myFavouritePage.png';
-import { useSelector, useDispatch } from "react-redux";
-import { useState } from "react";
-import { AnimatePresence } from "framer-motion";
-import headphoneBanner from "../../images/headphone-banner.jpg"
-
+import { useSelector } from "react-redux";
 import MyFavouriteProduct from "./myFavouriteProduct/MyFavouriteProduct";
 
 
 const Products = () => {
 
 	const wishList = useSelector((state) => state.wishList.wishList);
-
-
 
 	return (
 

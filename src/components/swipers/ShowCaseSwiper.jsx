@@ -3,10 +3,6 @@ import headphone1 from '../../images/headphones/headphone1.jpg';
 import headphone2 from '../../images/headphones/headphone2.jpg';
 import headphone3 from '../../images/headphones/headphone3.jpg';
 
-
-
-
-import React, { useRef, useState } from 'react';
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 

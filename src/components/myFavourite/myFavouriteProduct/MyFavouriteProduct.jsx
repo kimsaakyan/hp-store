@@ -2,10 +2,8 @@ import { useDispatch } from "react-redux";
 import { setWishList, removeWishItem } from "../../../redux/slices/wishListSlice";
 import { setOrders } from "../../../redux/slices/cartSlice";
 import { Link } from "react-router-dom";
-import Alert from "../../alert/Alert";
 import { useState } from "react";
 import { AnimatePresence } from "framer-motion";
-import SuccessfullyRemoved from "../../alert/SuccessfullyRemoved";
 import SuccessfullyAdded from "../../alert/SuccessfullyAdded";
 
 
