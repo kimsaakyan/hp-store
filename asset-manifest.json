@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hp-store/static/css/main.550df803.css",
-    "main.js": "/hp-store/static/js/main.43fd0f0b.js",
+    "main.js": "/hp-store/static/js/main.206eca1e.js",
     "static/js/787.06663485.chunk.js": "/hp-store/static/js/787.06663485.chunk.js",
     "static/media/bottom-background.png": "/hp-store/static/media/bottom-background.fd430d2c5e840f47500f.png",
     "static/media/headphone-banner.jpg": "/hp-store/static/media/headphone-banner.60cee02fddaa76306671.jpg",
@@ -17,14 +17,13 @@
     "static/media/headphone4.jpg": "/hp-store/static/media/headphone4.6966a7991ea4fc37aa7d.jpg",
     "static/media/headphone1.jpg": "/hp-store/static/media/headphone1.1bfc6a30134f3626cb2b.jpg",
     "static/media/headphoneLogo.png": "/hp-store/static/media/headphoneLogo.31c193b110a22e808a94.png",
-    "static/media/logo.svg": "/hp-store/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hp-store/index.html",
     "main.550df803.css.map": "/hp-store/static/css/main.550df803.css.map",
-    "main.43fd0f0b.js.map": "/hp-store/static/js/main.43fd0f0b.js.map",
+    "main.206eca1e.js.map": "/hp-store/static/js/main.206eca1e.js.map",
     "787.06663485.chunk.js.map": "/hp-store/static/js/787.06663485.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.550df803.css",
-    "static/js/main.43fd0f0b.js"
+    "static/js/main.206eca1e.js"
   ]
 }
